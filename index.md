@@ -1,3 +1,3 @@
 # Mein lieblingsheld ist Ironman
 
-Erist ein Geschäftsmann und inhaber eines Rüstungsunternehmens. 
+Er ist ein Geschäftsmann und inhaber eines Rüstungsunternehmens. 
